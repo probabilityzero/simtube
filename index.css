@@ -8,9 +8,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Google+Symbols');
 
 :root {
-  --color-background: light-dark(#fff, #242428);
-  --color-text: light-dark(#000, #fff);
-  --color-accent: #4285f4;
+  --color-background: light-dark(#eeeeee, #1c1c1d);
+  --color-text: light-dark(#020202, #fdfdfd);
+  --color-accent: #42bcf4;
   --color-error: #f53311;
 
   --font-display: 'Titan One', sans-serif;
